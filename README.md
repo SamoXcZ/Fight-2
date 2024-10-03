@@ -1,5 +1,5 @@
 # Shadow Fight 2 - iOS App (TrollStore Installation)
-(https://github.com/user-attachments/assets/6514791c-52c8-4b53-9330-b1cd56ac8302)
+
 
 
 
