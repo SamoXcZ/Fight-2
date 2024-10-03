@@ -15,6 +15,7 @@ This iOS app is designed to mod the popular game *Shadow Fight 2* by allowing yo
 Since this app is designed for **TrollStore**, ensure you have TrollStore installed on your device before proceeding:
 1. Install the app using TrollStore.
 2. Once installed, open the app.
+3. PLEASE INSTALL THE APP ONLY WITH TROLLSTORE AND NOT WITH ESIGN OR SCARLET, THE APP SHOULD RUN UNSANDBOXED OTHERWISE THE APP WILL BECOME USELESS!
 
 ## How to Use
 1. **Launch the App**: Open the mod app from your home screen.
