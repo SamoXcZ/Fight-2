@@ -1,6 +1,5 @@
 # Shadow Fight 2 - iOS App (TrollStore Installation)
-![5A32EF45-41ED-45D5-8424-C94E01293E72]
-![B5E15E85-B690-4940-976B-1D2A196127A5](https://github.com/user-attachments/assets/6514791c-52c8-4b53-9330-b1cd56ac8302)
+(https://github.com/user-attachments/assets/6514791c-52c8-4b53-9330-b1cd56ac8302)
 
 
 
